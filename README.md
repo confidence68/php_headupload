@@ -8,3 +8,5 @@ php_headupload
 把代码放到localhost下面，运行upload.php 后面指定一个uid就可以了，例如http://localhost/uc_avatar/upload.php?uid=11
 
 这样就可以了，图像支持拍照！上传会自动保存！今天在这里和大家一起分享一下！
+
+![images](https://github.com/confidence68/readimages/blob/master/images/chhead.gif)
